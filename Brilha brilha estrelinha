@@ -1,4 +1,6 @@
 /* Programa: Reproduzindo "Twinkle, Twinkle, Little Star" em um buzzer */
+/* Autoria: Victor Akio Yanaguisawa utilizando Chat GPT */
+
 int buzzer = 8;
 
 #define NOTE_C4  262
